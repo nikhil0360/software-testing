@@ -1,0 +1,14 @@
+{
+  "name": "dcalc-main",
+  "version": "1.0.0",
+  "description": "Scientific Calculator",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Nikhil, Utkarsh, Divyanshi",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
